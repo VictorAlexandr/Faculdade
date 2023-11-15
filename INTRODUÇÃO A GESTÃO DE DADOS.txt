@@ -1,0 +1,87 @@
+- No livro DAMA (DMBOK) - Guia para o corpo de conhecimento em gerenciamento de dados, é comentado que seu conteudo traz conselho e orientações para o leitor, o profissional, o parendiz na direção de mostrar o que se deve e o que nao se deve fazer em função dos processos que estão envolta da gestão de dados.
+
+ - Em outra bibliografia Gestão e Governaça de dados - Promovendo dados como ativo de valor nas empresas, o autor desenvolve um contexto onde fala sobre novas praticas nesta gestão, onde se percebe a existencia de redução de custos, aumento da segurança da informação, um maior acerto com relação a tomada de decição e por fim um diferencial competitivo
+
+ - Na bibliografia Uma visão sistemica e comentada do Data Management Body of Knowlegde (BMBK) o foco é o interesse em mostrar uma visão de conhecimentos do Data Management Body of Knowlegde (BMBK), a pratica sobre gestão de dados desenvolvidos pelo autor nesta area por mais de 4 anos; Ainda é descrito pelo mesmo que o trabalho não tem a pretenção de substituir o documento DMBOK Original. 
+_________________________________________________________________________
+
+Segundo o livro DAMA - DMBOK e seus autores a quantidade dados utilizado no mundo cresce a uma taxa estonteante com estimativa entre 1 e 2 bilhoes por ano, esta referencia vem dos pesquisadores da Universidade Da California em Berkeley
+
+ No livro  A Gestão de Dados (no inglês, Data Management ou DM), conforme o DMBOK (2009), descreve que o processo visa controlar a alavancar eficazmente o uso dos ativos de dados, sua missão e objetivos são atender e exceder as necessidades de informação de todos os envolvidos (stakeholders). Issso remete em disponibilidade, regurança e qualidade, onde os envolvidos são: setor de Tecnologia da Informação, seus clientes internos e externos e envolve desde a alta direção, que utiliza dados na geração de informações estrategicas, ate profissionais de nivel operacional, que muitas vezes são responsaveis pela coleta e produção dos dados.
+  Informações são dados dentro de um contexto, sem isso não ha significado, nem a possibilidade de uma analise adequada a tomada de decisão. Dado é a parte fundamental para qualquer informação que se queira analisar. 
+_______________________________________________________________________
+
+Ainda segundo o DAMA - DMBOK,
+
+Dado é a fundação da inforação, do conhecimento e, finalmente, de sabedoria e da ação bem informada. Os dados são verdadeiros? Não necessariamente!! Os dados podem ser imprecisos, incompletos, desatualizados e incomprensiveis. Durante seculos, os filosofos tem perguntado "O que é verdade?", e a resposta continua elusiva. Em um nivel pratico, a verdade é, em certa medida, a informação da mais alta qualidade de dados que estejam disponiveis, sejam relevantes, completos corretos, consistentes, em tempo adequado, utilizaveis, significaveis e compreensiveis. As organizações que reconhecem o valor do dado podem tomar passos concretos e proativos para melhorar a qualidade dos dados e da informação. 
+
+  - Segundo o livro Gestão e Governança de dados: Promovendo dados como ativo de valor nas empresas, ainda os dados podem estar dentro da seguinte situação:
+
+Exemplo de uma aplicação financeira onde uma instituição deseja manter informações sobre a saude financeira de seus clientes. Ao acompanharmos a evolução demonstrada na figura anterior, veremos que:
+ 
+ 1. O dado ( -15000) é um número qualquer sem significado algum.
+
+ 2. Ao consultar seu metadado, descobrimos que esta informação corresponde a um saldo negativo de R$ 15.000,00. Apesar de o exemplo mencionar algo com grau de dificuldade bastante simples, grande parte das empresas ainda está situada neste estágio da cadeia de evolução do dado.
+
+ 3. De acordo com os critérios de crédito da instituição (histórico, renda, comprometimento, garantias, reservas financeiras, produtos adquiridos, etc.), chegamos à conclusão de que o cliente está endividado. Qualquer descuido ou acontecimento negativo na vida do cliente proporcionará uma possível inadimplência. Esse tipo de conhecimento é obtido através de aplicações com inteligência incorporada nas soluções. O conhecimento interfere diretamente na política de crédito adotada por esta e outras instituições.
+
+ 4. Para eliminar as dívidas e, consequentemente, manter o cliente consumindo mais produtos financeiros da instituição, a empresa deve utilizar a sabedoria para não apenas propor soluções que ajudem ao cliente, mas que também agreguem valor às suas vendas e a mantenham em posição de destaque no mercado. 
+_______________________________________________________________________
+
+  - EVOLUÇÃO DO CONHECIMENTO
+Perceba que a evolução da tecnologia é um fator de destaque para resultados satisfatórios neste tipo de gestão, por isso é importante que se tenha em mente como foi a evolução dos dados. Se já se esqueceu dê mais uma observada neste assunto.
+______________________________________________________________________
+
+ - Que Tipo de aspectos devo ter para desenvolver o conceito de Gestão de Dados.....
+
+Para isso é fundamental conhecimento não só os dados do cliente, mas tambem informações gerais sobre o conjunto de demais clientes sobre: comportamento e renda, tendencias de consumo, analises criteriosas dos riscos, cenario economico nacional e mundial, entre outras  informações que servirão de subsidios para as pessoas, sistemas especialistas,  ferramentas estatisticas, ou ambos, utilizem o conhecimento dessas informações para tomar decisões cada vez mais ageis e corretas.
+  Com relação ao profissional pode-se afirmar que é algo novo e que vem ganhando espaço nas organizações, ela cuida do planejamento, controle de entrega de dados e informação. O desenvolvimento, execução, supervisão de planos, politicas, programas, projetos entre outras coisas. Termos associados Gestão de dados:
+
+ Information Management ? IM
+
+ Enterprise Information Management ? EIM
+
+ Enterprise Data Management ? EDM
+
+ Data Resources Management ? DRM
+
+ Information Resource Management ? IRM
+
+ Information Asset Management ? IAM
+
+  - A DAMA Management Association, é a pioneira no mundo que trabalha com os profissionais de dados no mundo. Ela não possuí fins lucrativos, mais de 7500 associados, tem como missão promover o entendimento, desenvolvimento e prática e m gerenciamento de dados e suporte a gestão dos negócios.
+_______________________________________________________________________
+
+             As metas DAMA - DMBOK:
+
+1. Criar um consenso para uma visão geral aplicável das funções de gestão de dados.
+
+2. Fornecer as definições padrão comumente usadas nas funções de gestão de resultados, papéis, e outras terminologias.
+
+3. Identificar os princípios orientadores para a gestão de dados.
+
+4. Visualização geral das boas práticas comumente aceitas, métodos e técnicas largamente adotadas e significativas abordagens alternativas, sem referir, específica à fornecedores de tecnologia ou de seus produtos.
+
+5. Identificar resumidamente questões culturais e organizacionais comuns.
+
+6. Esclarecer o escopo e as fronteiras da gestão de dados.
+
+7. Guiar os leitores a recursos adicionais para melhor entendimento.
+_______________________________________________________________________
+
+                Usando o Guia DAMA- DMBOK
+
+O modelo primário para o Guia DAMA-DMBOK© é o Guia do Corpo de Conhecimento em Gestão de Projetos (Guia PMBOK©) publicado pelo PMI© (Project Management Institute). PMI© é uma organização profissional para gestores de projeto. Entre os seus muitos serviços O PMI© mantém o programa de certificação PMP© (Project Management Professional. Outros documentos de Corpo de Conhecimento considerados:
+
+A Guide to Software Engineering Body of Knowledge (SWEBOK), publicado pelo the Institute of Electrical and Electronic Engineers (IEEE). IEEE começou a oferecer um programa de certificação para os engenheiros de software.
+
+A Business Analysis Body of Knowledge (BABOK), publicado pelo International Institute of Business Analysis.
+
+The Common Body of Knowledge (CBK) publicado pelo International Information Systems Security Certification Consortium ((ISC). A CBK é um teste de conhecimento para obter o Certified Information Systems Security Professional (CISSP).
+
+The Canadian Information Technology Body of Knowledge (CITBOK) é um projeto empreendido pela Canadian Information Processing Society (CIPS), para delinear os conhecimentos necessários aos profissionais Canadenses de Tecnologia da Informação.
+_______________________________________________________________________
+
+             Um pouco mais sobre o DAMA - DMBOK
+
+Dicionário de Gestão de Dados é um volume que acompanha o Guia DANIA-DMBOK®. Originalmente desenvolvido como um extenso glossário para o Guia DAMA-DMBOK®. DAMA Internacional publicou separadamente devido ao seu tamanho e valor comercial. As definições para termos encontrados no dicionário são coerentes com a sua utilização no Guia DAMA-DMBOK®. O dicionário está disponível para compra em CD-ROM.
